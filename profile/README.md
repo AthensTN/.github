@@ -25,23 +25,7 @@
 
 <br/>
 
-### 🛠️ Languages and Tools:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,tailwindcss,python,docker" alt="My Skills" />
-</p>
-
-<br/>
-
-### 📊 GitHub Stats:
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AthensTN&show_icons=true&locale=en&theme=tokyonight" alt="AthensTN's GitHub stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AthensTN&theme=tokyonight" alt="AthensTN's streak stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AthensTN&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<br/>
 
 ### 🐍 My Contribution Graph
 
